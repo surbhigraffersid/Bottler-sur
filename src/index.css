@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;   
+
+  color: #637381;
+  line-height: 1.8571428571428572;
+  font-size: 0.875rem;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiPaper-root {
+  padding: 2em 0;
+}
+
+.MuiCardHeader-title {
+  margin: 0  !important;
+  line-height: 1.5  !important;
+  font-size: 1rem  !important;
+  color: #0D4772 !important;
+  font-family: 'Open Sans',sans-serif !important;
+  font-weight: 400 !important;
+}
+
+
+.mui-style-12k3xa2 {
+  margin-top: 4em;
+  background-color: #ECF0F4;
+  padding: 4em;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15%;
+}
+
+.MuiButtonBase-root {
+  border-radius: 0 !important;
+    font-size: 20px !important;
+    padding: 0.5em 1em !important;
+    /* color: #fff !important; */
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    text-transform: capitalize !important;
+    font-family: 'Open Sans',sans-serif !important;
+    min-width: 64px !important;
+    font-weight: 600 !important;
+    line-height: 1.7142857142857142 !important;
+    user-select: none !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    outline: 0 !important;
+    border: 0 !important;
+    /* margin: 0 !important; */
+    margin-left: 1rem !important;
+    justify-content: center !important;
+    position: relative !important;
+    box-sizing: border-box !important;
+    align-items: center !important; 
+    -webkit-box-pack: center !important;
+}
+
+.MuiTextField-root {
+  width: 50% !important;
+}
+
+#terms-and-condition {
+  margin: 0;
+  line-height: 1.8571428571428572;
+  font-size: 0.875rem;
+  color: #637381;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  color: #0D4772;
+  margin-top: 20px;
+}
+
+.MuiCard-root {
+  margin-top: 4em !important;
+  background-color: #ECF0F4 !important;
+  padding: 4em !important;
+  width: 50% !important;
+  text-align: center !important;
+  margin-bottom: 15% !important;
+}
+
+#last-text {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 1rem;
+  color: #0D4772;
+  margin-top: 4em;
+  color: #637381;
+    line-height: 1.8571428571428572;
+    font-family: 'Open Sans',sans-serif !important;
+    font-weight: 400;
+}
+
+.MuiInputBase-input{
+  background-color: white !important;
+}
+
+
